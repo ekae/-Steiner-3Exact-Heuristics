@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.env
+.vscode/
+.idea/
+*.ipynb
+!steiner_3exact_tutorial.ipynb
+!eq6_test.ipynb
+paper1.pdf
+paper2.pdf
